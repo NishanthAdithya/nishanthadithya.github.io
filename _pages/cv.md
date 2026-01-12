@@ -1,6 +1,15 @@
 ---
+layout: page
 title: Resume
 nav: true
 nav_order: 7
-external_url: /assets/pdf/CV_summer_2026.pdf
 ---
+
+<div style="width:100%; height:1200px;">
+  <iframe
+    src="/assets/pdf/CV_summer_2026.pdf"
+    width="100%"
+    height="100%"
+    style="border:none;">
+  </iframe>
+</div>
