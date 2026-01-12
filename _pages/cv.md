@@ -1,5 +1,4 @@
 ---
-permalink: /cv/
 title: Resume
 nav: true
 nav_order: 7
