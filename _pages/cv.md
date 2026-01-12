@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Resume
+title: Resum
 nav: true
 nav_order: 7
 ---
