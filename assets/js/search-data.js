@@ -461,6 +461,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "research-singularity-free-path-planning-and-safe-working-zone-computation-for-parallel-manipulators",
+          title: 'Singularity-Free Path Planning and Safe Working Zone Computation for Parallel Manipulators',
+          description: "Developed computational algorithms for path planning and optimal trajectory generation in parallel manipulators by explicitly identifying singularity-free regions of operation. A Safe Working Zone (SWZ) framework is formulated to ensure trajectories remain away from kinematic singularities and self-collision configurations. The resulting approach enables reliable, safety-aware motion planning for parallel manipulators in practical applications.",
+          section: "Research",handler: () => {
+              window.location.href = "/research/1_research/";
             },},{
         id: 'social-email',
         title: 'email',
