@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /exp/
-title: Experience
+permalink: /research/
+title: Research
 description: Documentation of my research experience.
 nav: true
 nav_order: 6
