@@ -164,6 +164,8 @@ collections:
     output: false
   projects:
     output: true
+  exp:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
