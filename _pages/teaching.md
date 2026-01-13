@@ -1,22 +1,12 @@
 ---
 layout: page
-permalink: /exp/
-title: Experience
-description: Research Experience  
-nav: true
+permalink: /teaching/
+title: Teaching
+description: Materials for courses you taught. Replace this text with your description.
+nav: false
 nav_order: 6
 ---
 
-<!-- pages/research.md -->
-<div class="exp">
-{% assign sorted_projects = site.research | sort: "importance" %}
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-  <!-- Generate cards for each project -->
-  <div class="container">
-    <div class="row row-cols-1">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-</div>
+Organize your courses by years, topics, or universities, however you like!
