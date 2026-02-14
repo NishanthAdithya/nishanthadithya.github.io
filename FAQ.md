@@ -27,7 +27,7 @@ Here are some frequently asked questions. If you have a different question, plea
     - [Limitations](#limitations)
     - [Access these tools](#access-these-tools)
 
-<!--te-->
+<!--te--> 
 
 ## After I create a new repository from this template and setup the repo, I get a deployment error. Isn't the website supposed to correctly deploy automatically?
 
