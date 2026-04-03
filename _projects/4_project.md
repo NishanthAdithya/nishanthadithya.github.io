@@ -2,7 +2,7 @@
 layout: page
 title: project 4
 description: another without an image
-img:
+img: assets/img/after_bund_adj_new_5.png
 importance: 3
 category: fun
 ---
