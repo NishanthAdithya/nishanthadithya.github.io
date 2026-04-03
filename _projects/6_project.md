@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Semantic Segmentation – Deep Learning-Based Scene Parsing
+description: Pixel-wise semantic labeling of RGB images using a fully convolutional network trained on annotated scene datasets
 img: assets/img/sseg_pred.png
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

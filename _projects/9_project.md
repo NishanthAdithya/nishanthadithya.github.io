@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Patch-Based Image Dataset Construction for Object Recognition
+description: Curated multi-class image patch dataset with normalized crops for training and evaluating object recognition pipelines
 img: assets/img/patched_grid.png
 importance: 4
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

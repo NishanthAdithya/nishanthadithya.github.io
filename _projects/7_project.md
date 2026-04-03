@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/symb_comp.png
+title: Visual SLAM – Simultaneous Localization and Mapping
+description: Feature-based visual SLAM pipeline with loop closure detection and pose graph optimization for indoor navigation
+img: assets/img/after_bund_adj_new_5.png
 importance: 1
 category: work
 related_publications: true

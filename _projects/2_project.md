@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Sampling-Based Motion Planning – RRT* and Goal-Biased Variants
+description: Implementation and visualization of goal-biased RRT* for robot path planning in obstacle-laden environments
 img: assets/img/goal3_mp.gif
 importance: 2
 category: work

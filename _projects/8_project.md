@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/rhino.png
+title: Image Registration and Optical Flow Estimation
+description: Dense and sparse optical flow computation for motion estimation and multi-view image registration
+img: assets/img/autopano_1.png
 importance: 2
 category: work
 giscus_comments: true

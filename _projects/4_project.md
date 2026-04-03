@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Structure from Motion – 3D Reconstruction via Bundle Adjustment
+description: Feature extraction, matching, and iterative bundle adjustment for sparse 3D point cloud reconstruction from multi-view images
 img: assets/img/after_bund_adj_new_5.png
 importance: 3
 category: fun

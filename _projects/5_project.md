@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Autonomous Panoramic Image Stitching – Feature-Based Homography
+description: Automated multi-image panorama generation using SIFT feature matching, RANSAC homography estimation, and cylindrical projection
 img: assets/img/autopano_1.png
 importance: 3
 category: fun

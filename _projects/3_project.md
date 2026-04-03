@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Velocity-Based Robot Motion (VBRM) – Operational Space Control
+description: Real-time velocity-based control framework for robotic end-effector trajectory tracking using Jacobian-based methods
 img: assets/img/vbrm.gif
 redirect: https://unsplash.com
 importance: 3
