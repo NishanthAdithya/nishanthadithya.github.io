@@ -416,19 +416,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-10",
-          title: 'project 10',
-          description: "a project description",
+          section: "News",},{id: "projects-camera-calibration-intrinsic-and-extrinsic-parameter-estimation",
+          title: 'Camera Calibration – Intrinsic and Extrinsic Parameter Estimation',
+          description: "Zhang&#39;s checkerboard-based calibration method for recovering camera intrinsics, lens distortion, and extrinsic pose parameters",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-project-11",
-          title: 'project 11',
-          description: "a project description",
+            },},{id: "projects-8-image-indoor-panoramic-reconstruction-cylindrical-projection",
+          title: '8-Image Indoor Panoramic Reconstruction – Cylindrical Projection',
+          description: "High-resolution indoor scene reconstruction from 8 overlapping images using cylindrical stitching and multi-band blending",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-project-12",
-          title: 'project 12',
-          description: "a project description",
+            },},{id: "projects-custom-spiral-trajectory-generation-for-coverage-path-planning",
+          title: 'Custom Spiral Trajectory Generation for Coverage Path Planning',
+          description: "Parameterized spiral trajectory design for robotic end-effector coverage tasks with configurable pitch and radius profiles",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
             },},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
@@ -436,44 +436,44 @@ ninja.data = [{
           description: "Cartesian Velocity Control, Jacobian-Based IK, and PD Control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-sampling-based-motion-planning-rrt-and-goal-biased-variants",
+          title: 'Sampling-Based Motion Planning – RRT* and Goal-Biased Variants',
+          description: "Implementation and visualization of goal-biased RRT* for robot path planning in obstacle-laden environments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-velocity-based-robot-motion-vbrm-operational-space-control",
+          title: 'Velocity-Based Robot Motion (VBRM) – Operational Space Control',
+          description: "Real-time velocity-based control framework for robotic end-effector trajectory tracking using Jacobian-based methods",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-structure-from-motion-3d-reconstruction-via-bundle-adjustment",
+          title: 'Structure from Motion – 3D Reconstruction via Bundle Adjustment',
+          description: "Feature extraction, matching, and iterative bundle adjustment for sparse 3D point cloud reconstruction from multi-view images",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-autonomous-panoramic-image-stitching-feature-based-homography",
+          title: 'Autonomous Panoramic Image Stitching – Feature-Based Homography',
+          description: "Automated multi-image panorama generation using SIFT feature matching, RANSAC homography estimation, and cylindrical projection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-semantic-segmentation-deep-learning-based-scene-parsing",
+          title: 'Semantic Segmentation – Deep Learning-Based Scene Parsing',
+          description: "Pixel-wise semantic labeling of RGB images using a fully convolutional network trained on annotated scene datasets",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-visual-slam-simultaneous-localization-and-mapping",
+          title: 'Visual SLAM – Simultaneous Localization and Mapping',
+          description: "Feature-based visual SLAM pipeline with loop closure detection and pose graph optimization for indoor navigation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-image-registration-and-optical-flow-estimation",
+          title: 'Image Registration and Optical Flow Estimation',
+          description: "Dense and sparse optical flow computation for motion estimation and multi-view image registration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-patch-based-image-dataset-construction-for-object-recognition",
+          title: 'Patch-Based Image Dataset Construction for Object Recognition',
+          description: "Curated multi-class image patch dataset with normalized crops for training and evaluating object recognition pipelines",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "research-singularity-free-path-planning-and-safe-working-zone-computation-for-parallel-manipulators",
