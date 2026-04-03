@@ -5,6 +5,7 @@ description: Implementation and visualization of goal-biased RRT* for robot path
 img: assets/img/goal3_mp.gif
 importance: 2
 category: work
+redirect: https://github.com/NishanthAdithya
 giscus_comments: true
 ---
 
