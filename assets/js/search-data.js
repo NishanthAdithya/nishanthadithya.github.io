@@ -416,7 +416,22 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
+          section: "News",},{id: "projects-project-10",
+          title: 'project 10',
+          description: "a project description",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-project-11",
+          title: 'project 11',
+          description: "a project description",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-project-12",
+          title: 'project 12',
+          description: "a project description",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
+            },},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
           title: 'Control and Velocity Kinematics – 4DoF OpenManipulator-X Robotic Arm',
           description: "Cartesian Velocity Control, Jacobian-Based IK, and PD Control",
           section: "Projects",handler: () => {
