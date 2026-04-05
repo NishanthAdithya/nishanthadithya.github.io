@@ -451,9 +451,9 @@ ninja.data = [{
           description: "Feature extraction, matching, P-n-P and iterative bundle adjustment for sparse 3D point cloud reconstruction from multi-view images",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-semantic-segmentation-deep-learning-based-scene-parsing",
-          title: 'Semantic Segmentation – Deep Learning-Based Scene Parsing',
-          description: "Pixel-wise semantic labeling of RGB images using a fully convolutional network trained on annotated scene datasets",
+            },},{id: "projects-semantic-segmentation-using-self-attention-weighted-u-net",
+          title: 'Semantic Segmentation using Self-Attention weighted U-Net',
+          description: "Self-attention enhanced U-Net architecture in PyTorch with data augmentation, improving IoU and Dice scores over baseline models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-probability-based-boundary-detection-using-pb-lite",
@@ -471,9 +471,9 @@ ninja.data = [{
           description: "Developed computational algorithms for path planning and optimal trajectory generation in parallel manipulators by explicitly identifying singularity-free regions of operation. A Safe Working Zone (SWZ) framework is formulated to ensure trajectories remain away from kinematic singularities and self-collision configurations. The resulting approach enables reliable, safety-aware motion planning for parallel manipulators in practical applications.",
           section: "Research",handler: () => {
               window.location.href = "/research/1_research/";
-            },},{id: "research-your-research-title-here",
-          title: 'Your Research Title Here',
-          description: "Your research description here.",
+            },},{id: "research-dexterous-picking",
+          title: 'Dexterous Picking',
+          description: "Vision pipeline that enables a Franka Panda 7-DoF robotic arm to perform dexterous object picking using RGB-D data from a ZED2i camera, and an ensemble of Mask R-CNN and Attention U-Net.",
           section: "Research",handler: () => {
               window.location.href = "/research/2_research/";
             },},{
