@@ -5,7 +5,7 @@ description: Developed computational algorithms for path planning and optimal tr
 img: assets/img/symb_comp.png
 importance: 2
 category: Deep Learning and Computer Vision
-#related_publications: true
+redirect: https://scholar.google.com/citations?hl=en&user=_wWZ9CwAAAAJ
 ---
 
 ## Research Problem
