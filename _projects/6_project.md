@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Semantic Segmentation – Deep Learning-Based Scene Parsing
-description: Pixel-wise semantic labeling of RGB images using a fully convolutional network trained on annotated scene datasets
+title: Semantic Segmentation using Self-Attention weighted U-Net
+description: Self-attention enhanced U-Net architecture in PyTorch with data augmentation, improving IoU and Dice scores over baseline models
 img: assets/img/sseg_pred.png
 importance: 10
 category: work

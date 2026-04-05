@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Your Research Title Here
-description: Your research description here.
+title: Dexterous Picking 
+description: Vision pipeline that enables a Franka Panda 7-DoF robotic arm to perform dexterous object picking using RGB-D data from a ZED2i camera, and an ensemble of Mask R-CNN and Attention U-Net. 
 img: assets/img/symb_comp.png
 importance: 1
 category: Deep Learning and Computer Vision
