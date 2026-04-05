@@ -436,36 +436,26 @@ ninja.data = [{
           description: "Cartesian Velocity Control, Jacobian-Based IK, and PD Control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-sampling-based-motion-planning-rrt-and-goal-biased-variants",
-          title: 'Sampling-Based Motion Planning – RRT* and Goal-Biased Variants',
+            },},{id: "projects-tamp-motion-planning-rrt-and-goal-biased-variants",
+          title: 'TAMP Motion Planning – RRT* and Goal-Biased Variants',
           description: "Implementation and visualization of goal-biased RRT* for robot path planning in obstacle-laden environments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-velocity-based-robot-motion-vbrm-operational-space-control",
-          title: 'Velocity-Based Robot Motion (VBRM) – Operational Space Control',
-          description: "Real-time velocity-based control framework for robotic end-effector trajectory tracking using Jacobian-based methods",
+            },},{id: "projects-vision-based-robot-manipulation-vbrm-operational-space-control",
+          title: 'Vision-Based Robot Manipulation (VBRM) – Operational Space Control',
+          description: "Real-time vision-based control framework for robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-structure-from-motion-3d-reconstruction-via-bundle-adjustment",
           title: 'Structure from Motion – 3D Reconstruction via Bundle Adjustment',
-          description: "Feature extraction, matching, and iterative bundle adjustment for sparse 3D point cloud reconstruction from multi-view images",
+          description: "Feature extraction, matching, P-n-P and iterative bundle adjustment for sparse 3D point cloud reconstruction from multi-view images",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-autonomous-panoramic-image-stitching-feature-based-homography",
-          title: 'Autonomous Panoramic Image Stitching – Feature-Based Homography',
-          description: "Automated multi-image panorama generation using SIFT feature matching, RANSAC homography estimation, and cylindrical projection",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-semantic-segmentation-deep-learning-based-scene-parsing",
           title: 'Semantic Segmentation – Deep Learning-Based Scene Parsing',
           description: "Pixel-wise semantic labeling of RGB images using a fully convolutional network trained on annotated scene datasets",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-visual-slam-simultaneous-localization-and-mapping",
-          title: 'Visual SLAM – Simultaneous Localization and Mapping',
-          description: "Feature-based visual SLAM pipeline with loop closure detection and pose graph optimization for indoor navigation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-image-registration-and-optical-flow-estimation",
           title: 'Image Registration and Optical Flow Estimation',
           description: "Dense and sparse optical flow computation for motion estimation and multi-view image registration",
