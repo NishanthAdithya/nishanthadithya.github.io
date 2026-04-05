@@ -3,7 +3,7 @@ layout: page
 title: Probability based boundary detection using PB-lite
 description: Probability based boundary detection algorithm considering the texture, brightness and color discontinuties in addition to pixel intensities using deep learning models like ResNet, ResNeXt and DenseNet.
 img: assets/img/autopano_1.png
-importance: 6
+importance: 8
 category: work
 redirect: https://github.com/NishanthAdithya?tab=repositories
 ---
