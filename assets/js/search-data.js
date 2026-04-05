@@ -421,9 +421,9 @@ ninja.data = [{
           description: "Zhang&#39;s checkerboard-based calibration method for recovering camera intrinsics, lens distortion, and extrinsic pose parameters",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-8-image-indoor-panoramic-reconstruction-cylindrical-projection",
-          title: '8-Image Indoor Panoramic Reconstruction – Cylindrical Projection',
-          description: "High-resolution indoor scene reconstruction from 8 overlapping images using cylindrical stitching and multi-band blending",
+            },},{id: "projects-autonomous-panaroma-stitching-using-deep-homography-net",
+          title: 'Autonomous Panaroma stitching using Deep Homography Net',
+          description: "Classical panorama stitching pipeline from scratch using Harris corner detection, ANMS, SSD matching, RANSAC and compared it with the deep homography network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-custom-spiral-trajectory-generation-for-coverage-path-planning",
@@ -436,9 +436,9 @@ ninja.data = [{
           description: "Cartesian Velocity Control, Jacobian-Based IK, and PD Control",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-tamp-motion-planning-rrt-and-goal-biased-variants",
-          title: 'TAMP Motion Planning – RRT* and Goal-Biased Variants',
-          description: "Implementation and visualization of goal-biased RRT* for robot path planning in obstacle-laden environments",
+            },},{id: "projects-task-and-motion-planning-for-block-manipulation-using-strips-in-genesis",
+          title: 'Task and Motion Planning for Block Manipulation using STRIPS in Genesis',
+          description: "Full TAMP pipeline combining PDDL task planning with OMPL-based motion planning for block manipulation in simulation enabling execution–grounding–replanning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-vision-based-robot-manipulation-vbrm-operational-space-control",
@@ -456,14 +456,14 @@ ninja.data = [{
           description: "Pixel-wise semantic labeling of RGB images using a fully convolutional network trained on annotated scene datasets",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-image-registration-and-optical-flow-estimation",
-          title: 'Image Registration and Optical Flow Estimation',
-          description: "Dense and sparse optical flow computation for motion estimation and multi-view image registration",
+            },},{id: "projects-probability-based-boundary-detection-using-pb-lite",
+          title: 'Probability based boundary detection using PB-lite',
+          description: "Probability based boundary detection algorithm considering the texture, brightness and color discontinuties in addition to pixel intensities using deep learning models like ResNet, ResNeXt and DenseNet.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-patch-based-image-dataset-construction-for-object-recognition",
-          title: 'Patch-Based Image Dataset Construction for Object Recognition',
-          description: "Curated multi-class image patch dataset with normalized crops for training and evaluating object recognition pipelines",
+            },},{id: "projects-targeted-universal-adversarial-patch-attacks-on-convolutional-neural-networks",
+          title: 'Targeted Universal Adversarial Patch Attacks on Convolutional Neural Networks',
+          description: "Targeted universal adversarial patch attacks against a ResNet-18 classifier trained on the CIFAR-10 dataset using Expectation over Transformation (EoT)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{id: "research-singularity-free-path-planning-and-safe-working-zone-computation-for-parallel-manipulators",
