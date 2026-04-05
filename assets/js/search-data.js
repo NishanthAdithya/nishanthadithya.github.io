@@ -426,9 +426,9 @@ ninja.data = [{
           description: "Classical panorama stitching pipeline from scratch using Harris corner detection, ANMS, SSD matching, RANSAC and compared it with the deep homography network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-nerf-representing-scenes-as-neural-radiance-fields-on-a-custom-dataset",
+          title: 'NeRF: Representing Scenes as Neural Radiance Fields on a Custom Dataset',
+          description: "Implemented the paper NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis from scratch on a custom dataset",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
             },},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
