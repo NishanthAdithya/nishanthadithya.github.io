@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Velocity-Based Robot Motion (VBRM) – Operational Space Control
-description: Real-time velocity-based control framework for robotic end-effector trajectory tracking using Jacobian-based methods
+title: Vision-Based Robot Manipulation (VBRM) – Operational Space Control
+description: Real-time vision-based control framework for robots
 img: assets/img/vbrm.gif
-redirect: https://unsplash.com
-importance: 3
+redirect: https://github.com/NishanthAdithya?tab=repositories
+importance: 5
 category: work
 ---
 

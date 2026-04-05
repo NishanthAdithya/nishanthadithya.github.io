@@ -3,8 +3,9 @@ layout: page
 title: Semantic Segmentation – Deep Learning-Based Scene Parsing
 description: Pixel-wise semantic labeling of RGB images using a fully convolutional network trained on annotated scene datasets
 img: assets/img/sseg_pred.png
-importance: 4
+importance: 10
 category: work
+redirect: https://github.com/NishanthAdithya?tab=repositories
 ---
 
 Every project has a beautiful feature showcase page.

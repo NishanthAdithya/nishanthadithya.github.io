@@ -3,8 +3,9 @@ layout: page
 title: Patch-Based Image Dataset Construction for Object Recognition
 description: Curated multi-class image patch dataset with normalized crops for training and evaluating object recognition pipelines
 img: assets/img/patched_grid.png
-importance: 4
+importance: 9
 category: work
+redirect: https://github.com/NishanthAdithya?tab=repositories
 ---
 
 Every project has a beautiful feature showcase page.

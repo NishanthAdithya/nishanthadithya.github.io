@@ -3,9 +3,9 @@ layout: page
 title: Image Registration and Optical Flow Estimation
 description: Dense and sparse optical flow computation for motion estimation and multi-view image registration
 img: assets/img/autopano_1.png
-importance: 2
+importance: 6
 category: work
-giscus_comments: true
+redirect: https://github.com/NishanthAdithya?tab=repositories
 ---
 
 Every project has a beautiful feature showcase page.

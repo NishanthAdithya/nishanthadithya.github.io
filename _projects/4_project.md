@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Structure from Motion – 3D Reconstruction via Bundle Adjustment
-description: Feature extraction, matching, and iterative bundle adjustment for sparse 3D point cloud reconstruction from multi-view images
+description: Feature extraction, matching, P-n-P and iterative bundle adjustment for sparse 3D point cloud reconstruction from multi-view images
 img: assets/img/after_bund_adj_new_5.png
-importance: 3
-category: fun
+importance: 2
+category: work
+redirect: https://github.com/NishanthAdithya?tab=repositories
 ---
 
 Every project has a beautiful feature showcase page.
