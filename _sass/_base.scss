@@ -675,6 +675,18 @@ footer.sticky-bottom {
 
 // Projects
 
+.research {
+  a {
+    text-decoration: none;
+
+    &:hover {
+      .card-title {
+        color: inherit;
+      }
+    }
+  }
+}
+
 .projects {
   a {
     text-decoration: none;
