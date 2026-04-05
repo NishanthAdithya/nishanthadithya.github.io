@@ -426,9 +426,9 @@ ninja.data = [{
           description: "Classical panorama stitching pipeline from scratch using Harris corner detection, ANMS, SSD matching, RANSAC and compared it with the deep homography network",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-custom-spiral-trajectory-generation-for-coverage-path-planning",
-          title: 'Custom Spiral Trajectory Generation for Coverage Path Planning',
-          description: "Parameterized spiral trajectory design for robotic end-effector coverage tasks with configurable pitch and radius profiles",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
             },},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
