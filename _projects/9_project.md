@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Patch-Based Image Dataset Construction for Object Recognition
-description: Curated multi-class image patch dataset with normalized crops for training and evaluating object recognition pipelines
+title: Targeted Universal Adversarial Patch Attacks on Convolutional Neural Networks
+description: Targeted universal adversarial patch attacks against a ResNet-18 classifier trained on the CIFAR-10 dataset using Expectation over Transformation (EoT)
 img: assets/img/patched_grid.png
 importance: 9
 category: work

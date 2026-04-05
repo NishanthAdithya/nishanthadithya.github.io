@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Image Registration and Optical Flow Estimation
-description: Dense and sparse optical flow computation for motion estimation and multi-view image registration
+title: Probability based boundary detection using PB-lite
+description: Probability based boundary detection algorithm considering the texture, brightness and color discontinuties in addition to pixel intensities using deep learning models like ResNet, ResNeXt and DenseNet.
 img: assets/img/autopano_1.png
 importance: 6
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TAMP Motion Planning – RRT* and Goal-Biased Variants
-description: Implementation and visualization of goal-biased RRT* for robot path planning in obstacle-laden environments
+title: Task and Motion Planning for Block Manipulation using STRIPS in Genesis
+description:  Full TAMP pipeline combining PDDL task planning with OMPL-based motion planning for block manipulation in simulation enabling execution–grounding–replanning
 img: assets/img/goal3_mp.gif
 importance: 3
 category: work
