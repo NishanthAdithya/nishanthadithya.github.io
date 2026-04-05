@@ -681,7 +681,7 @@ footer.sticky-bottom {
 
     &:hover {
       .card-title {
-        color: inherit;
+        color: var(--global-theme-color);
       }
     }
   }
