@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Dexterous Picking 
+title: Human-like Dexterous Picking Skills for Complex Multi-Object Scenes 
 description: Vision pipeline that enables a Franka Panda 7-DoF robotic arm to perform dexterous object picking using RGB-D data from a ZED2i camera, and an ensemble of Mask R-CNN and Attention U-Net. 
-img: assets/img/symb_comp.png
-logo: assets/img/MER_lab.png
-role: Your Role Here
-advisor: Prof. Advisor Name Here
+img: assets/img/MERLab.png
+logo: assets/img/MERLab.png
+role: Directed Researcher
+advisor: Prof. Berk Calli
 importance: 1
 category: Deep Learning and Computer Vision
-redirect: https://scholar.google.com/citations?hl=en&user=_wWZ9CwAAAAJ
+redirect: https://wp.wpi.edu/merlab/leveraging-human-like-dexterous-picking-skills-for-complex-multi-object-scenes/
 ---
 
 ## Research Problem
