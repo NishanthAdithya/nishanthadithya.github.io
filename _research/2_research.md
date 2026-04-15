@@ -6,7 +6,7 @@ img: assets/img/MERLab.png
 logo: assets/img/MERLab.png
 role: Directed Researcher
 advisor: Prof. Berk Calli
-duration: "Your Duration Here"
+duration: "Jan 2026 – Present"
 importance: 1
 category: Deep Learning and Computer Vision
 redirect: https://wp.wpi.edu/merlab/leveraging-human-like-dexterous-picking-skills-for-complex-multi-object-scenes/

@@ -6,7 +6,7 @@ img: assets/img/symb_comp.png
 logo: assets/img/symb_comp.png
 role: Research Associate
 advisor: Prof. Sandipan Bandyopadhyay
-duration: "Your Duration Here"
+duration: "Sep 2023 – July 2025"
 importance: 2
 category: Computational Mathematics and Geometry
 redirect: https://scholar.google.com/citations?hl=en&user=_wWZ9CwAAAAJ
