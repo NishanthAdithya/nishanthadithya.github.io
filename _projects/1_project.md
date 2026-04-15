@@ -2,7 +2,7 @@
 layout: page
 title: Control and Velocity Kinematics – 4DoF OpenManipulator-X Robotic Arm
 description: Cartesian Velocity Control, Jacobian-Based IK, and PD Control
-img: assets/img/openm_pick_place_fast.gif   # MUST be an image
+img: assets/img/openm_pick_place_fast.gif
 importance: 7
 category: work
 redirect: https://github.com/NishanthAdithya?tab=repositories
