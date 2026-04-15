@@ -431,6 +431,11 @@ ninja.data = [{
           description: "Implemented the paper NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis from scratch on a custom dataset",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-einstein-vision",
+          title: 'Einstein Vision',
+          description: "Add your project description here.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
             },},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
           title: 'Control and Velocity Kinematics – 4DoF OpenManipulator-X Robotic Arm',
           description: "Cartesian Velocity Control, Jacobian-Based IK, and PD Control",
