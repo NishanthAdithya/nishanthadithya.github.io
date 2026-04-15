@@ -3,7 +3,7 @@ layout: page
 title: Singularity-Free Path Planning and Computation Algebra for Parallel Manipulators
 description: Developed computational algorithms for path planning and optimal trajectory generation in parallel manipulators by explicitly identifying singularity-free regions of operation. A Safe Working Zone (SWZ) framework is formulated to ensure trajectories remain away from kinematic singularities and self-collision configurations. The resulting approach enables reliable, safety-aware motion planning for parallel manipulators in practical applications.
 img: assets/img/symb_comp.png
-logo: assets/img/MER_lab.png
+logo: assets/img/symb_comp.png
 role: Research Associate
 advisor: Prof. Sandipan Bandyopadhyay
 importance: 2

@@ -3,7 +3,7 @@ layout: page
 title: Dexterous Picking 
 description: Vision pipeline that enables a Franka Panda 7-DoF robotic arm to perform dexterous object picking using RGB-D data from a ZED2i camera, and an ensemble of Mask R-CNN and Attention U-Net. 
 img: assets/img/symb_comp.png
-logo: assets/img/symb_comp.png
+logo: assets/img/MER_lab.png
 role: Your Role Here
 advisor: Prof. Advisor Name Here
 importance: 1
