@@ -476,8 +476,8 @@ ninja.data = [{
           description: "Developed computational algorithms for path planning and optimal trajectory generation in parallel manipulators by explicitly identifying singularity-free regions of operation. A Safe Working Zone (SWZ) framework is formulated to ensure trajectories remain away from kinematic singularities and self-collision configurations. The resulting approach enables reliable, safety-aware motion planning for parallel manipulators in practical applications.",
           section: "Research",handler: () => {
               window.location.href = "/research/1_research/";
-            },},{id: "research-dexterous-picking",
-          title: 'Dexterous Picking',
+            },},{id: "research-human-like-dexterous-picking-skills-for-complex-multi-object-scenes",
+          title: 'Human-like Dexterous Picking Skills for Complex Multi-Object Scenes',
           description: "Vision pipeline that enables a Franka Panda 7-DoF robotic arm to perform dexterous object picking using RGB-D data from a ZED2i camera, and an ensemble of Mask R-CNN and Attention U-Net.",
           section: "Research",handler: () => {
               window.location.href = "/research/2_research/";
