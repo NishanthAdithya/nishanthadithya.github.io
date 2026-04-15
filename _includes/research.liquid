@@ -14,6 +14,9 @@
             {% if project.advisor %}
               <p class="mb-0" style="font-size: 0.85rem; color: var(--global-text-color-light);">Advisor: {{ project.advisor }}</p>
             {% endif %}
+            {% if project.duration %}
+              <p class="mb-0" style="font-size: 0.85rem; color: var(--global-text-color-light);">{{ project.duration }}</p>
+            {% endif %}
           </div>
         </div>
         <p class="card-text">{{ project.description }}</p>
