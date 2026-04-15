@@ -15,7 +15,7 @@ nav_order: 6
   <div class="container">
     <div class="row row-cols-1">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include research.liquid %}
     {% endfor %}
     </div>
   </div>
