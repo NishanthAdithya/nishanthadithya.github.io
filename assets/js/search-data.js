@@ -433,7 +433,7 @@ ninja.data = [{
               window.location.href = "/projects/12_project/";
             },},{id: "projects-einstein-vision",
           title: 'Einstein Vision',
-          description: "Add your project description here.",
+          description: "A Tesla FSD-inspired 3D visualization pipeline for autonomous driving scenes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
             },},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
