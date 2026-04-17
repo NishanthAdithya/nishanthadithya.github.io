@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Einstein Vision
-description: Add your project description here.
-img: assets/img/symb_comp.png
-importance: 10
+description: A Tesla FSD-inspired 3D visualization pipeline for autonomous driving scenes
+img: assets/img/ev_gif.gif
+importance: 9
 category: work
 redirect: https://github.com/NishanthAdithya/Einstein-vision
 ---
