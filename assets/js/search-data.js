@@ -436,6 +436,11 @@ ninja.data = [{
           description: "A Tesla FSD-inspired 3D visualization pipeline for autonomous driving scenes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
+            },},{id: "projects-finetuning-dinov2-with-lora-for-image-segmentation",
+          title: 'Finetuning DINOv2 with LoRA for Image Segmentation',
+          description: "Finetuned DINOv2 encoder weights using Low-Rank Adaptation (LoRA) and a 1×1 convolution decoder, achieving 74.6% Mean IoU on Pascal VOC with only 0.69% trainable parameters.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
             },},{id: "projects-control-and-velocity-kinematics-4dof-openmanipulator-x-robotic-arm",
           title: 'Control and Velocity Kinematics – 4DoF OpenManipulator-X Robotic Arm',
           description: "Cartesian Velocity Control, Jacobian-Based IK, and PD Control",
