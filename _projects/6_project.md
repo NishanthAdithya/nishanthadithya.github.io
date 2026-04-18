@@ -3,7 +3,7 @@ layout: page
 title: Semantic Segmentation using Self-Attention weighted U-Net
 description: Self-attention enhanced U-Net architecture in PyTorch with data augmentation, improving IoU and Dice scores over baseline models
 img: assets/img/sseg_pred.png
-importance: 11
+importance: 12
 category: work
 redirect: https://github.com/NishanthAdithya?tab=repositories
 ---

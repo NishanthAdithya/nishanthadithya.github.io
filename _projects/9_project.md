@@ -3,7 +3,7 @@ layout: page
 title: Targeted Universal Adversarial Patch Attacks on Convolutional Neural Networks
 description: Targeted universal adversarial patch attacks against a ResNet-18 classifier trained on the CIFAR-10 dataset using Expectation over Transformation (EoT)
 img: assets/img/patched_grid.png
-importance: 10
+importance: 11
 category: work
 redirect: https://github.com/NishanthAdithya?tab=repositories
 ---
