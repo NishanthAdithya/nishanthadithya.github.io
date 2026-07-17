@@ -6,7 +6,7 @@ subtitle: Robotics Researcher.
 
 profile:
   align: right
-  image: IMG_0347.jpg
+  image: 5E664C78-725D-4720-89EC-73734E9F9978.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MS in Robotics Engineering at WPI</p>
